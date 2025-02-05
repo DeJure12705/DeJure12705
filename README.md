@@ -10,10 +10,10 @@ Hey there! 👋 Welcome to my GitHub!
 
 🤔 I’m looking for help with... figuring out how my code works after a week of not looking at it😎.
 
-💬 Ask me about... absolutely anything—just don’t expect a correct answer.
+💬 Ask me about... absolutely anything—just don’t expect a correct answer😇.
 
-📫 How to reach me: Send a carrier pigeon or, you know, just DM me.
+📫 How to reach me: Send a carrier pigeon or, you know, just DM me🕊️.
 
-😄 Pronouns: Code/Nap/Debug
+😄 Pronouns: Code/Nap/Debug😴
 
 ⚡ Fun fact: I once wrote "TODO" in my code and actually came back to do it. (It’s a rare achievement.)😱
