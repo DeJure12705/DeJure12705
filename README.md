@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-**DeJure12705/DeJure12705** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Hey there! 👋 Welcome to my GitHub!
 🔭 I’m currently working on... trying to remember why I opened this repo in the first place.
 
