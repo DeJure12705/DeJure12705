@@ -10,7 +10,7 @@ Hey there! 👋 Welcome to my GitHub!
 
 🤔 I’m looking for help with... figuring out how my code works after a week of not looking at it😎.
 
-💬 Ask me about... absolutely anything—just don’t expect a correct answer😇.
+💬 Ask me about... absolutely anything just don’t expect a correct answer😇.
 
 📫 How to reach me: Send a carrier pigeon or, you know, just DM me🕊️.
 
